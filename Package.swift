@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "SocketIO",
+    name: "SocketIOSwift",
     products: [
         .library(name: "SocketIO", targets: ["SocketIO"])
     ],
